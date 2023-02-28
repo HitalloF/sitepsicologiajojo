@@ -1,0 +1,48 @@
+.nav {
+    background-color: #AD8BE2;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+.nav ul {
+    list-style: none;
+    display: inline-flex;
+}
+.boxnav{
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    background: #AD8BE2;
+}
+.menu{
+    justify-items: center;
+    align-items: center;
+    align-self: center;
+}
+
+.boxnav img {
+    width: 90px;
+}
+.list li {
+    padding: 15px;
+    width: 100%;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    
+}
+.list img {
+    width: 25px;
+    justify-items: center;
+    align-items: center;
+    align-self: center;
+}
+.list a {   
+    padding: 5px;
+    justify-items: center;
+    align-items: center;
+    align-self: center;
+    text-decoration: none;
+    color: #F2E08D;
+    font-weight: bold;
+}

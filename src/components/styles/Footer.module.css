@@ -1,0 +1,61 @@
+.footer{
+display: flex;
+justify-content: space-around;
+background-color: #AD8BE2;
+flex-wrap: wrap;
+padding: 5px;
+
+}
+.esquerda {
+}
+.esquerdaimg{
+    text-align: center;
+}
+.esquerda h1{
+    color: cyan;
+}
+
+.esquerdaimg img{
+    width: 110px;
+
+}
+.esquerdatxt{
+text-align: center;
+color: #F2E08D;
+}
+/* FOOTER CENTRO*/
+.centro {
+}
+.centro h1{
+    color: cyan;
+}
+.centrotxt{
+    text-align: center;
+}
+.centrotxt li{
+list-style: none;
+text-align: left;
+padding-bottom: 5px;
+}
+.centrotxt a{
+    text-decoration: none;
+    color: #F2E08D;
+    font-weight: bold;
+}
+/* FOOTER LADO DIREITO*/
+.direita {
+
+}
+.direita h1{
+    color: cyan;
+}
+.direitaimg img{
+    width: 150px;
+
+
+}
+.direitatxt{
+text-align: left;
+color: #F2E08D;
+font-weight: bold;
+}

@@ -1,0 +1,62 @@
+.wallpaper {
+
+}
+.wallpaper img {
+    width: 100%;
+}
+
+/* PARTE DO SERVICO NO HOME*/
+.service {
+    display: flex;
+    justify-content: center;
+    background-color: #F2E08D;
+
+}
+.serviceImg img {
+    max-width: 450px;
+}
+.servicetxt{
+    justify-items: center;
+    align-items: center;
+    align-self: center;
+}
+/* PARTE DO FAQ*/
+.faq{
+    display: flex;
+    justify-content: center; 
+    background-color: #AD8BE2;
+}
+.faqtxt {
+    justify-items: center;
+    align-items: center;
+    align-self: center;
+}
+.faqimg img{
+    max-width: 450px;
+}
+.espace{
+    background: #CFCFCF;
+    padding: 1px;
+}
+/* PARTE DO blog*/
+.blog{
+    display: flex;
+    justify-content: center; 
+    background-color: #F2E08D;
+}
+.blogtxt {
+    justify-items: center;
+    align-items: center;
+    align-self: center;
+}
+.blogimg img{
+    max-width: 450px;
+}
+.espace{
+    background: #CFCFCF;
+    padding: 1px;
+}
+.espace2{
+    background: #CFCFCF;
+    padding: 1px;
+}
